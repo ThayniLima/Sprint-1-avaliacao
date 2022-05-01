@@ -14,8 +14,10 @@
 
 
 ### 4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.    
+    R: Método muito usado no processo de desenvolvimento, ao criar branches isso permite fazer alterações em uma base do código sem alterar toda a parte do código. Trabalhando com outros evita complicações, pois cada pessoa pode alterar uma parte do código.
 
 ### 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
+    R:Ao criar um repositório na nuvem já é possivel inicializa-lo, um repositório a partir de um código local deve ser executado por linhas de comandos para poder ser inicializado e enviado.
 
 ### 6. Qual a diferença entre Git e GitHub?
 
