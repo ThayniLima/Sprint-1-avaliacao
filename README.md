@@ -42,12 +42,25 @@
 ### Planning
     R: É uma reunião de planejamento onde o time se reúne com uma lista de afazeres e são definidas metas para o time dentro de um tempo definido.
 
+### Refinamento
+    R: É usado em relação aos itens do backlog, que devem estar sempre atualizados e detalhados.
+
+
+### Review 
+    R: Review Meeting é uma reunião onde é revisado o que foi feito e a Retrospective (retrospectiva).Pode-se unir o cliente, o usuário, que relaciona-se diretamente com o produto, junto com a equipe de desenvolvimento.
 
 
 
+### Retrospectiva
+    R:A reunião de retrospectiva é a mais importante, é a hora de promovermos melhorias no processo, no time e no andamento do projeto que está sendo desenvolvido.
 
+
+
+### 10. O que é a estimativa na metodologia ágil?
+    R: Estimativa na metodologia ágil os membros da equipe se reunem para decidir o que cada um fará e quanto tempo será necessario para concluir. 
 
 ## Fundamentos HTTP
+
 
 ### 11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?
     R: Http é um protocoloque define as regras de comunicação entre cliente e servidor na internet.No HTTP, todos os dados enviados entre cliente e servidor são transmitidos em texto puro, inclusive dados sensíveis, como login e senha o que pode se tornar algo inseguro para o cliente pois seus dados podem ser espionados. Já o HTTPS, fornece uma camada adicional de segurança/criptografia e protege os dados do cliente.
