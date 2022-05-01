@@ -41,3 +41,16 @@
 
 ### Planning
     R: É uma reunião de planejamento onde o time se reúne com uma lista de afazeres e são definidas metas para o time dentro de um tempo definido.
+
+
+
+
+
+
+## Fundamentos HTTP
+
+### 11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?
+    R: Http é um protocoloque define as regras de comunicação entre cliente e servidor na internet.No HTTP, todos os dados enviados entre cliente e servidor são transmitidos em texto puro, inclusive dados sensíveis, como login e senha o que pode se tornar algo inseguro para o cliente pois seus dados podem ser espionados. Já o HTTPS, fornece uma camada adicional de segurança/criptografia e protege os dados do cliente.
+
+### 12. Cite 4 métodos HTTP.
+    R: Get, Post, Put e Trace.
